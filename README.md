@@ -1,4 +1,4 @@
-<h1 align="center">console.log("Hola 👋, soy Waldo Vázquez")</h1>
+<h1 align="center">Hola 👋, soy Waldo Vázquez</h1>
 <h3 align="center">Soy desarrollador web Full-Stack. Me gusta resolver problemas , afrontar nuevos desafios y continuar aprendiendo un poco todos los dias.</h3>
 
 - 🌱 Estoy actualmente aprendiendo **TypeScript , NestJS**
