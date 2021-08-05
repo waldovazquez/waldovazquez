@@ -3,7 +3,7 @@
 
 - 🌱 Estoy actualmente aprendiendo **TypeScript , Universal Pattern , MongoDB**
 
-- 💬 Preguntame sobre **JavaScript | Typescript | ReactJs | Redux | NodeJs | ExpressJs | Sequelize | PostgreSQL | Less | Git | Github | NPM**
+- 💬 Preguntame sobre **JavaScript | Typescript | ReactJs | Redux | NodeJs | ExpressJs | MongoDB | Universal Pattern | Sequelize | PostgreSQL | Less | Git | Github | NPM**
 
 - 📫 Como contactarte conmigo **waldoleonelvazquez@hotmail.com**
 
