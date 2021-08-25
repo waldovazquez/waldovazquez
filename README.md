@@ -1,9 +1,9 @@
 <h1 align="center">Hola 👋, soy Waldo Vázquez</h1>
 <h3 align="center">Soy desarrollador web Full-Stack. Me gusta resolver problemas , afrontar nuevos desafios y continuar aprendiendo un poco todos los dias.</h3>
 
-- 🌱 Estoy actualmente aprendiendo **TypeScript , Universal Pattern , MongoDB**
+- 🌱 Estoy actualmente aprendiendo **Universal Pattern , MongoDB , Loopback**
 
-- 💬 Preguntame sobre **JavaScript | Typescript | ReactJs | Redux | NodeJs | ExpressJs | MongoDB | Universal Pattern | Sequelize | PostgreSQL | Less | Git | Github | NPM**
+- 💬 Preguntame sobre **JavaScript | ReactJs | Redux | NodeJs | ExpressJs | MongoDB | Universal Pattern | Sequelize | PostgreSQL | Less | Git | Github | NPM**
 
 - 📫 Como contactarte conmigo **waldoleonelvazquez@hotmail.com**
 
