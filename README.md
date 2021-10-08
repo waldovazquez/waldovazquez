@@ -3,7 +3,7 @@
 
 - 🌱 Estoy actualmente aprendiendo **Universal Pattern , MongoDB , Loopback**
 
-- 💬 Preguntame sobre **JavaScript | ReactJs | Redux | NodeJs | ExpressJs | MongoDB | Universal Pattern | PostgreSQL | Git | Github | NPM**
+- 💬 Preguntame sobre **JavaScript | ReactJs | Redux | NodeJs | Apache Kafka | Swagger | ExpressJs | MongoDB | PostgreSQL | Universal Pattern | Git | Github | GitLab NPM**
 
 - 📫 Como contactarte conmigo **waldoleonelvazquez@hotmail.com**
 
