@@ -5,7 +5,7 @@
 
 - 💬 Preguntame sobre **JavaScript | ReactJs | Redux | NodeJs | Apache Kafka | Swagger | ExpressJs | MongoDB | PostgreSQL | Universal Pattern | Git | Github | GitLab | NPM**
 
-- 📫 Como contactarte conmigo **waldoleonelvazquez@hotmail.com**
+- 📫 Como contactarte conmigo **vazquezw1997@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
