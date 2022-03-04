@@ -1,9 +1,7 @@
 <h1 align="center">Hola 👋, soy Waldo Vázquez</h1>
 <h3 align="center">Soy desarrollador web Full-Stack. Me gusta resolver problemas , afrontar nuevos desafios y continuar aprendiendo un poco todos los dias.</h3>
 
-- 🌱 Estoy actualmente aprendiendo **Universal Pattern , MongoDB , Apache Kafka**
-
-- 💬 Preguntame sobre **JavaScript | ReactJs | Redux | NodeJs | Apache Kafka | Swagger | ExpressJs | MongoDB | PostgreSQL | Universal Pattern | Git | Github | GitLab | NPM**
+- 💬 Preguntame sobre **JavaScript | ReactJs | React Native | NodeJs | Apache Kafka | Swagger | ExpressJs | MongoDB | Git | Github | GitLab**
 
 - 📫 Como contactarte conmigo **vazquezw1997@gmail.com**
 
