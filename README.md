@@ -1,7 +1,7 @@
 <h1 align="center">Hola soy Waldo Vázquez</h1>
 <h2 align="center">Soy una persona resolutiva que disfruta afrontar nuevos desafíos profesionales y continuar aprendiendo un poco todos los días.</h2>
 
-- 💬 Preguntame sobre **JavaScript | React | React Native | Expo | Native Base | MUI | HTML5 | NodeJs | ExpressJs | MongoDB | Git | Github**
+- 💬 Preguntame sobre **JavaScript | React | React Native | Expo | MUI | HTML5 | NodeJs | ExpressJs | MongoDB | Git | Github**
 
 <h4 align="left">Connect with me:</h4>
 <address align="left">
