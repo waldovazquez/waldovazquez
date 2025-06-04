@@ -6,7 +6,7 @@
 <h4 align="left">Conectate conmigo:</h4>
 <address align="left">
 <a href="https://www.linkedin.com/in/waldo-vazquez/" target="_blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="waldo-leonel-vazquez"/></a>
-<a href="mailto:wvazquezdev@gmail.com"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="waldo-vazquez-gmail"/></a>
+<a href="mailto:dev.waldovazquez@gmail.com"><img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="waldo-vazquez-gmail"/></a>
 </address>
 
 <h4 align="left">Tecnologías:</h4>
